@@ -10,7 +10,7 @@
 In the `research` directory there are:
 
 - code for training machine learning models on Adult-Income dataset [link](https://github.com/ASHWANIKY2308/INCOME_PROJ_ML/blob/main/research/train_income_classifier.ipynb)
-- code for simulating A/B tests [link](https://github.com/ASHWANIKY2308/INCOME_PROJ_ML/blob/main/research/ab_test.ipynb)
+- code for simulating A/B tests [link](https://github.com/ASHWANIKY2308/MLSERVICE/blob/main/INCOME_PROJ_ML/research/ab_test.ipynb)
 
 In the `backend` directory there is Django application.
 
